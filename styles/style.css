@@ -299,12 +299,14 @@
 
 
 .footer {
+  display: flex;
   background-color: #1f1f1f;
   color: #f2f2f2;
   min-height: 350px;
 }
 
 .footer__columns {
+  display: flex;
   width: 90%;
   margin: 0 auto;
   padding-top: 60px;
